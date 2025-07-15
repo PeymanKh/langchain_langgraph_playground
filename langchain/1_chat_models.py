@@ -1,3 +1,7 @@
+"""
+Chat models list:
+https://python.langchain.com/docs/integrations/chat/
+"""
 from langchain_community.llms import FakeListLLM
 from langchain_openai import ChatOpenAI
 # from langchain_google_genai import ChatGoogleGenerativeAI
