@@ -9,3 +9,4 @@ pymongo
 langgraph-checkpoint-mongodb
 langchain-community
 langchain-google-genai
+langchain
