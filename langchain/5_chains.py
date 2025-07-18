@@ -33,7 +33,7 @@ print(response)
 
 #################### 2. Transformation & Custom logic ####################
 """
-Transformations help chains go beyond raw LLM outputs
+Transformations help chains process beyond raw LLM outputs
 """
 # Compose the chain using pipes
 transformed_chain = basic_chain | (lambda x: x.upper())
