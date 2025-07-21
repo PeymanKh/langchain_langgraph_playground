@@ -1,5 +1,6 @@
 """
 Securely loads environment variables both in docker image and local run.
+ready for production
 """
 import os
 from enum import Enum
